@@ -1,25 +1,25 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "morethanmin",
+    name: "何艺汇",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "frontend developer",
-    bio: "I develop everything using node.",
-    email: "morethanmin.dev@gmail.com",
-    linkedin: "morethanmin",
-    github: "morethanmin",
+    role: "连续创业者",
+    bio: "专注AI创业，专注个人成长",
+    email: "qw3547022@qq.vip.qq.com",
+    linkedin: "何艺汇",
+    github: "murenren1",
     instagram: "",
   },
   projects: [
     {
-      name: `morethan-log`,
-      href: "https://github.com/morethanmin/morethan-log",
+      name: `何艺汇的GitHub`,
+      href: "https://github.com/murenren1/morethan-log-hyhai?tab=readme-ov-file",
     },
   ],
   // blog setting (required)
   blog: {
-    title: "morethan-log",
-    description: "welcome to morethan-log!",
+    title: "何艺汇的博客",
+    description: "欢迎来到何艺汇的博客!",
   },
 
   // CONFIG configration (required)
